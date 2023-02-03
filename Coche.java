@@ -10,5 +10,9 @@ public class Coche {
   this modelo = modelo;
   this matricula = matricula;
   this puertas = puertas;
+<<<<<<< HEAD
   hola
+=======
+  mostrar modelo
+>>>>>>> ramaB
 }
